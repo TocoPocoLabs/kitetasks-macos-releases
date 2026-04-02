@@ -3,6 +3,18 @@
 <channel>
     <title>KiteTasks</title>
     <item>
+    <title>1.0.10</title>
+    <sparkle:version>10</sparkle:version>
+    <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.7</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 2 Apr 2026 21:00:00 +0000</pubDate>
+    <enclosure
+        url="https://github.com/TocoPocoLabs/kitetasks-macos-releases/releases/download/v1.0.10/KiteTasks.dmg"
+        length="3402724"
+        type="application/octet-stream"
+        sparkle:edSignature="4ABxl1c3yIrCCEzgqYIZMlzFZW8GCO/jNQ4EBfl2N9tqnBG+O3noyHzxRH4O6riGO2prx5NnQWn8btm8+JBCCw=="
+    />
+    </item>
     <title>1.0.9</title>
     <sparkle:version>9</sparkle:version>
     <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
